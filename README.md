@@ -2,6 +2,8 @@
 
 I have interest in things that related about technology & animation. I like to created a beautiful and functional websites even with a thousand errors i got. I hope i can even better in anythings i do rightnow
 
+![](/assets/images/luluco.png)
+
 <div align="center">
   
   [![Github followers](https://img.shields.io/github/followers/ArkaRaindra?style=social)](https://github.com/ArkaRaindra)
