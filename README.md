@@ -1,4 +1,13 @@
-## Hi there 👋
+# こんにちは！ I'm Arka desu ヾ(≧ ▽ ≦)ゝ\
+
+I have interest in things that related about technology & animation. I like to created a beautiful and functional websites even with a thousand errors i got.
+
+<div align="center">
+  
+  [![Github followers](https://img.shields.io/github/followers/ArkaRaindra?style=social)(https://github.com/ArkaRaindra)
+  
+</div>
+
 
 <!--
 **ArkaRaindra/ArkaRaindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
