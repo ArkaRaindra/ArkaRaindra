@@ -1,8 +1,13 @@
 # こんにちは！ I'm Arka desu ヾ(≧ ▽ ≦)ゝ\
 
-I have interest in things that related about technology & animation. I like to created a beautiful and functional websites even with a thousand errors i got. I hope i can even better in anythings i do rightnow
+I have interest in things that related about technology & animation. I like to created a beautiful and functional websites even with a thousand errors i got.
+<br>  I hope i can even better in anythings i do rightnow.
 
-![](/assets/images/luluco.png)
+<div align="center">
+  
+[![Image](https://github.com/ArkaRaindra/Image/blob/main/luluco.png)](https://github.com?ArkaRaindra)
+
+</div>
 
 <div align="center">
   
