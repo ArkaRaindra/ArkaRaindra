@@ -5,11 +5,13 @@
 </p>
 
 <div align="center">
-  [![gif](https://github.com/ArkaRaindra/Giv/blob/main/konatahype.gif)](https://github.com?ArkaRaindra)
+  <br>
+  <img src="https://github.com/ArkaRaindra/Gif/blob/main/konatahype.gif">
 </div>
 
+<br>
 I have interest in things that related about technology & animation. I like to created a beautiful and functional websites even with a thousand errors i got.
-<br>  I hope i can even better in anythings i do rightnow.
+<br> <h2>I hope i can even better in anythings i do rightnow. </h2>
 
 <div align="center">
   
