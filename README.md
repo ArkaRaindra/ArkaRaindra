@@ -6,6 +6,7 @@ I have interest in things that related about technology & animation. I like to c
 <div align="center">
   
 [![Image](https://github.com/ArkaRaindra/Image/blob/main/luluco.png)](https://github.com?ArkaRaindra)
+[<img src="https://github.com/ArkaRaindra/Image/blob/main/Yui.png" width="200">](https://github.com?ArkaRaindra)
 
 </div>
 
