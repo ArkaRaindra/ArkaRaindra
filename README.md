@@ -47,10 +47,44 @@ I have interest in things that related about technology & animation. I like to c
 
 </div>
 
-## My project
+## 📚 My project
 <!--(fill this later) -->
 
+## 📖 I'm Currently Learning
+- Javascript
+- Frontend Frameworks
+- Design
 
+## 📌 Interests
+
+Beyond coding, I'm passionate about:
+
+- 2D and 3D animations
+- Digital arts
+- Play music instrument (especially guitar)
+- Play some chessboard games
+
+## ✉️ Let's Connect! (ﾉ ≧∀≦)ﾉ
+
+Feel free to reach out if you'd like to collaborate on projects or just chat about technology, musics, or movies!
+
+[![Facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/Arka1shere)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/onlyarkalah/)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ArkaPrasasya&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+<div align="center">
+  
+### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=ArkaRaindra&color=blueviolet)
+
+⭐️ From [Arka](https://github.com/ArkaRaindra)
+
+</div>
 
 
 
