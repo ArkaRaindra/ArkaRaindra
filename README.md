@@ -1,5 +1,8 @@
 # こんにちは！ I'm Arka desu ヾ(≧ ▽ ≦)ゝ\
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=FADADD&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=5A5A5A" />
+</p>
 I have interest in things that related about technology & animation. I like to created a beautiful and functional websites even with a thousand errors i got.
 <br>  I hope i can even better in anythings i do rightnow.
 
