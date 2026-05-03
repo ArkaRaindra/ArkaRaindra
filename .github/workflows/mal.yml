@@ -1,22 +1,77 @@
+name: Update completed anime list
+
 on:
   schedule:
-    # Runs every hour or use crontab.guru for custom cron
-    - cron: '0 * * * *'
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
-  update-readme-with-anime-history:
-    name: Update this repo's README with latest MAL history
+  update-readme:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - uses: actions/checkout@v2
-      - name: MyAnimeList readme workflow
-        uses: gamersindo1223/MAL-ReadmeList@main
-        with:
-          gh_token: ${{ github.token }}
-          mal_username: "ArkaNotHere"
-          repo_branch: "main"
-          repo_filename: "README.md"
-          repo_path: "ArkaRaindra/ArkaRaindra"
+      - uses: actions/checkout@v4
+
+      - name: Update README from MAL completed list
+        run: |
+          python <<'PY'
+          import json
+          import re
+          import urllib.request
+
+          USERNAME = "ArkaNotHere"
+          LIMIT = 8
+
+          url = f"https://api.jikan.moe/v4/users/{USERNAME}/animelist/completed?limit={LIMIT}&sort=desc"
+          data = json.loads(urllib.request.urlopen(url).read().decode())
+          items = data.get("data", [])
+
+          rows = []
+
+          for anime in items:
+              title = anime.get("anime", {}).get("title", "Unknown")
+              link = anime.get("anime", {}).get("url", "#")
+              image = anime.get("anime", {}).get("images", {}).get("jpg", {}).get("image_url", "")
+              score = anime.get("score", 0)
+              watched = anime.get("episodes_watched", 0)
+              total = anime.get("anime", {}).get("episodes") or "?"
+
+              row = f"""
+<table>
+<tr>
+<td width="90">
+<img src="{image}" width="80">
+</td>
+<td>
+<a href="{link}"><b>{title}</b></a><br>
+⭐ Score: {score}<br>
+📺 Episodes: {watched}/{total}
+</td>
+</tr>
+</table>
+"""
+              rows.append(row.strip())
+
+          block = "\n\n".join(rows) if rows else "_No completed anime found._"
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          pattern = r"(<!-- MAL_COMPLETED_START -->)(.*?)(<!-- MAL_COMPLETED_END -->)"
+          replacement = r"\1\n" + block + r"\n\3"
+
+          updated = re.sub(pattern, replacement, readme, flags=re.S)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(updated)
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "update MAL completed list" || exit 0
+          git push
