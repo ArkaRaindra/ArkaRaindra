@@ -4,20 +4,9 @@
 <img src="https://count.getloli.com/@Arka?name=Arka&theme=booru-touhoulat&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github.com/ArkaRaindra/Gif/blob/main/konatahype.gif">
-</div>
-
 <br>
 I have interest in things that related about technology & animation. I like to created a beautiful and functional websites even with a thousand errors i got.
 <br> <h2>I hope i can even better in anythings i do rightnow. </h2>
-
-<div align="center">
-  
-[![Image](https://github.com/ArkaRaindra/Image/blob/main/luluco.png)](https://github.com?ArkaRaindra)
-
-</div>
 
 <div align="center">
   
@@ -76,6 +65,7 @@ Beyond coding, I'm passionate about:
 ## ✉️ Let's Connect! (ﾉ ≧∀≦)ﾉ
 
 Feel free to reach out if you'd like to collaborate on projects or just chat about technology, musics, or movies!
+<p>I,m a <b>東方Project</b> and <b>物語〉シリーズ</b> fandom </p>
 
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Arka1shere)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/onlyarkalah/)
@@ -87,9 +77,6 @@ Feel free to reach out if you'd like to collaborate on projects or just chat abo
 ---
 
 <div align="center">
-  
-### Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=ArkaRaindra&color=blueviolet)
 
 ⭐️ From [Arka](https://github.com/ArkaRaindra)
 
