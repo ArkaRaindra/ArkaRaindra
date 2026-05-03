@@ -70,7 +70,7 @@ Beyond coding, I'm passionate about:
 ## ✉️ Let's Connect! (ﾉ ≧∀≦)ﾉ
 
 Feel free to reach out if you'd like to collaborate on projects or just chat about technology, musics, or movies!
-<p>I'm a <b>東方Project</b> and <b>物語〉シリーズ</b> fandom </p>
+<p>I'm a <b>東方Project</b> and<b>〈物語〉シリーズ</b> fandom </p>
 
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Arka1shere)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/onlyarkalah/)
