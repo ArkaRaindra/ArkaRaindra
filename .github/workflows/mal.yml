@@ -1,14 +1,13 @@
 name: Update completed anime list
 
 on:
-  workflow_dispatch
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
 
@@ -21,13 +20,11 @@ jobs:
 
           USERNAME = "ArkaNotHere"
           LIMIT = 5
-
           url = f"https://api.jikan.moe/v4/users/{USERNAME}/animelist/completed?limit={LIMIT}&sort=desc"
           data = json.loads(urllib.request.urlopen(url).read().decode())
           items = data.get("data", [])
 
           rows = []
-
           for anime in items:
               title = anime["anime"]["title"]
               link = anime["anime"]["url"]
@@ -40,7 +37,6 @@ jobs:
               readme = f.read()
 
           pattern = r"(<!-- MAL_COMPLETED_START -->)(.*?)(<!-- MAL_COMPLETED_END -->)"
-
           updated = re.sub(
               pattern,
               lambda m: f"{m.group(1)}\n{block}\n{m.group(3)}",
