@@ -1,8 +1,8 @@
 # こんにちは！ I'm Arka desu ヾ(≧ ▽ ≦)ゝ\
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=FADADD&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=5A5A5A" />
-</p>
+<div align="center">
+<img src="https://count.getloli.com/@Arka?name=Arka&theme=booru-touhoulat&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
+</div>
 
 <div align="center">
   <br>
