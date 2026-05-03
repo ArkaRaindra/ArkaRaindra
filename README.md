@@ -62,6 +62,11 @@ Beyond coding, I'm passionate about:
 - Play music instrument (especially guitar)
 - Play some chessboard games
 
+## MyAnimeList activity
+[![MAL](https://img.shields.io/badge/MyAnimeList-Profile-2E51A2?logo=myanimelist)](https://myanimelist.net/profile/ArkaNotHere)
+ <!-- MAL_ANIME<STATUS>:<TYPE> -->
+ <!-- MAL_ANIME<STATUS>:<TYPE>_END -->
+
 ## ✉️ Let's Connect! (ﾉ ≧∀≦)ﾉ
 
 Feel free to reach out if you'd like to collaborate on projects or just chat about technology, musics, or movies!
