@@ -64,9 +64,8 @@ Beyond coding, I'm passionate about:
 
 ## MyAnimeList activity
 [![MAL](https://img.shields.io/badge/MyAnimeList-Profile-2E51A2?logo=myanimelist)](https://myanimelist.net/profile/ArkaNotHere)
- <!-- MAL_HISTORY:start -->
-![MAL History](assets/mal-history.svg)
-<!-- MAL_HISTORY:end -->
+ <!-- MAL_ANIME<FINISHED>:<LIST> -->
+ <!-- MAL_ANIME<FINISHED>:<LIST>_END -->
 
 ## ✉️ Let's Connect! (ﾉ ≧∀≦)ﾉ
 
