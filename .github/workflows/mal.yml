@@ -1,57 +1,22 @@
-name: Update completed anime list
-
 on:
+  schedule:
+    # Runs every hour or use crontab.guru for custom cron
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-readme-with-anime-history:
+    name: Update this repo's README with latest MAL history
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Update README from MAL completed list
-        run: |
-          python <<'PY'
-          import json
-          import re
-          import urllib.request
-
-          USERNAME = "ArkaNotHere"
-          LIMIT = 5
-          url = f"https://api.jikan.moe/v4/users/{USERNAME}/animelist/completed?limit={LIMIT}&sort=desc"
-          data = json.loads(urllib.request.urlopen(url).read().decode())
-          items = data.get("data", [])
-
-          rows = []
-          for anime in items:
-              title = anime["anime"]["title"]
-              link = anime["anime"]["url"]
-              score = anime.get("score", 0)
-              rows.append(f'- [{title}]({link}) — score: {score}')
-
-          block = "\n".join(rows)
-
-          with open("README.md", "r", encoding="utf-8") as f:
-              readme = f.read()
-
-          pattern = r"(<!-- MAL_COMPLETED_START -->)(.*?)(<!-- MAL_COMPLETED_END -->)"
-          updated = re.sub(
-              pattern,
-              lambda m: f"{m.group(1)}\n{block}\n{m.group(3)}",
-              readme,
-              flags=re.S
-          )
-
-          with open("README.md", "w", encoding="utf-8") as f:
-              f.write(updated)
-          PY
-
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "update MAL completed list" || exit 0
-          git push
+      - uses: actions/checkout@v2
+      - name: MyAnimeList readme workflow
+        uses: gamersindo1223/MAL-ReadmeList@main
+        with:
+          gh_token: ${{ github.token }}
+          mal_username: "ArkaNotHere"
+          repo_branch: "main"
+          repo_filename: "README.md"
+          repo_path: "ArkaRaindra/ArkaRaindra"
