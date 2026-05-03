@@ -64,8 +64,8 @@ Beyond coding, I'm passionate about:
 
 ## MyAnimeList activity
 [![MAL](https://img.shields.io/badge/MyAnimeList-Profile-2E51A2?logo=myanimelist)](https://myanimelist.net/profile/ArkaNotHere)
- <!-- MAL_ANIME<STATUS>:<TYPE> -->
- <!-- MAL_ANIME<STATUS>:<TYPE>_END -->
+<!-- MAL_ANIME:watching -->
+<!-- MAL_ANIME:watching_END -->
 
 ## ✉️ Let's Connect! (ﾉ ≧∀≦)ﾉ
 
