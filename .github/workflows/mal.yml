@@ -1,9 +1,7 @@
 name: Update completed anime list
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
+  workflow_dispatch
 
 jobs:
   update-readme:
@@ -22,7 +20,7 @@ jobs:
           import urllib.request
 
           USERNAME = "ArkaNotHere"
-          LIMIT = 8
+          LIMIT = 5
 
           url = f"https://api.jikan.moe/v4/users/{USERNAME}/animelist/completed?limit={LIMIT}&sort=desc"
           data = json.loads(urllib.request.urlopen(url).read().decode())
@@ -31,38 +29,24 @@ jobs:
           rows = []
 
           for anime in items:
-              title = anime.get("anime", {}).get("title", "Unknown")
-              link = anime.get("anime", {}).get("url", "#")
-              image = anime.get("anime", {}).get("images", {}).get("jpg", {}).get("image_url", "")
+              title = anime["anime"]["title"]
+              link = anime["anime"]["url"]
               score = anime.get("score", 0)
-              watched = anime.get("episodes_watched", 0)
-              total = anime.get("anime", {}).get("episodes") or "?"
+              rows.append(f'- [{title}]({link}) — score: {score}')
 
-              row = f"""
-<table>
-<tr>
-<td width="90">
-<img src="{image}" width="80">
-</td>
-<td>
-<a href="{link}"><b>{title}</b></a><br>
-⭐ Score: {score}<br>
-📺 Episodes: {watched}/{total}
-</td>
-</tr>
-</table>
-"""
-              rows.append(row.strip())
-
-          block = "\n\n".join(rows) if rows else "_No completed anime found._"
+          block = "\n".join(rows)
 
           with open("README.md", "r", encoding="utf-8") as f:
               readme = f.read()
 
           pattern = r"(<!-- MAL_COMPLETED_START -->)(.*?)(<!-- MAL_COMPLETED_END -->)"
-          replacement = r"\1\n" + block + r"\n\3"
 
-          updated = re.sub(pattern, replacement, readme, flags=re.S)
+          updated = re.sub(
+              pattern,
+              lambda m: f"{m.group(1)}\n{block}\n{m.group(3)}",
+              readme,
+              flags=re.S
+          )
 
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(updated)
