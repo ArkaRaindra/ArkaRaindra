@@ -1,38 +1,29 @@
-name: Update MAL Cards
+name: Update MAL Anime List
 
 on:
-schedule:
-- cron: "0 */6 * * *"
-workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
-update:
-runs-on: ubuntu-latest
+  update-readme:
+    runs-on: ubuntu-latest
 
-```
-steps:
-  - name: Checkout
-    uses: actions/checkout@v4
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-  - name: Setup Python
-    uses: actions/setup-python@v5
-    with:
-      python-version: "3.x"
+      - name: Fetch RSS and Update README
+        run: |
+          python update_mal.py
 
-  - name: Install Requests
-    run: pip install requests
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
 
-  - name: Run Script
-    run: python update_mal.py
+          git add README.md
 
-  - name: Commit Changes
-    run: |
-      git config --global user.name "github-actions"
-      git config --global user.email "actions@github.com"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update MAL list"
 
-      git add README.md
-
-      git diff --quiet && git diff --staged --quiet || git commit -m "Update MAL Cards"
-
-      git push
-```
+          git push
