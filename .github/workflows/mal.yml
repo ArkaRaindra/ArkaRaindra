@@ -1,22 +1,29 @@
+name: Update MAL Anime List
+
 on:
   schedule:
-    # Runs every hour or use crontab.guru for custom cron
-    - cron: '0 * * * *'
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
-  update-readme-with-anime-history:
-    name: Update this repo's README with latest MAL history
+  update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - uses: actions/checkout@v2
-      - name: MyAnimeList readme workflow
-        uses: gamersindo1223/MAL-ReadmeList@main
-        with:
-          gh_token: ${{ github.token }}
-          mal_username: "ArkaNotHere"
-          repo_branch: "main"
-          repo_filename: "README.md"
-          repo_path: "ArkaRaindra/ArkaRaindra"
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch RSS and Update README
+        run: |
+          python update_mal.py
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add README.md
+
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update MAL list"
+
+          git push
