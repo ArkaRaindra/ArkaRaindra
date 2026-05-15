@@ -1,5 +1,6 @@
 import requests
 import xml.etree.ElementTree as ET
+import re
 
 RSS_URL = "https://myanimelist.net/rss.php?type=rwe&u=ArkaNotHere"
 
@@ -8,38 +9,52 @@ root = ET.fromstring(response.content)
 
 items = root.findall("./channel/item")
 
-anime_list = []
-
+cards = []
 added = set()
 
 for item in items:
-    title = item.find("title").text
-    desc = item.find("description").text.strip()
+title = item.find("title").text
+link = item.find("link").text
+desc = item.find("description").text.strip()
 
-    if title not in added:
-        anime_list.append(f"- **{title}** → {desc}")
-        added.add(title)
+```
+if title in added:
+    continue
 
-    if len(anime_list) >= 10:
-        break
+added.add(title)
+
+status = desc.replace("<![CDATA[", "").replace("]]>", "").strip()
+
+card = f"""
+```
+
+<a href="{link}">
+  <img src="https://img.shields.io/badge/{title.replace(' ', '%20')}-{status.replace(' ', '%20')}-ff69b4?style=for-the-badge&logo=myanimelist&logoColor=white"/>
+</a>
+"""
+
+```
+cards.append(card)
+
+if len(cards) >= 10:
+    break
+```
 
 with open("README.md", "r", encoding="utf-8") as f:
-    readme = f.read()
+readme = f.read()
 
 start = "<!-- MAL-START -->"
 end = "<!-- MAL-END -->"
 
-new_content = start + "\n" + "\n".join(anime_list) + "\n" + end
-
-import re
+replacement = start + "\n" + "\n".join(cards) + "\n" + end
 
 updated = re.sub(
-    f"{start}[\\s\\S]*?{end}",
-    new_content,
-    readme
+f"{start}[\s\S]*?{end}",
+replacement,
+readme
 )
 
 with open("README.md", "w", encoding="utf-8") as f:
-    f.write(updated)
+f.write(updated)
 
 print("README updated!")
