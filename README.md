@@ -68,6 +68,7 @@ Beyond coding, I'm passionate about:
 [![MAL](https://img.shields.io/badge/MyAnimeList-Profile-2E51A2?logo=myanimelist)](https://myanimelist.net/profile/ArkaNotHere)
 <p>
 <!-- MAL-START -->
+- **Dr. Stone: Science Future Part 3** → Watching - 7 of 13 episodes
 - **Acchi Kocchi** → On-Hold - 1 of 12 episodes
 - **Houseki no Kuni** → Completed - 12 of 12 episodes
 - **Seitokai Yakuindomo*** → Completed - 13 of 13 episodes
@@ -77,7 +78,6 @@ Beyond coding, I'm passionate about:
 - **Mob Psycho 100 III** → Completed - 12 of 12 episodes
 - **Mob Psycho 100 II** → Completed - 13 of 13 episodes
 - **Mob Psycho 100** → Completed - 12 of 12 episodes
-- **Chainsaw Man Movie: Reze-hen** → Completed - 1 of 1 episodes
 <!-- MAL-END -->
  </p>
 
