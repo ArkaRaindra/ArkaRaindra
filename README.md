@@ -68,16 +68,96 @@ Beyond coding, I'm passionate about:
 [![MAL](https://img.shields.io/badge/MyAnimeList-Profile-2E51A2?logo=myanimelist)](https://myanimelist.net/profile/ArkaNotHere)
 <p>
 <!-- MAL-START -->
-- **Dr. Stone: Science Future Part 3** → Watching - 7 of 13 episodes
-- **Acchi Kocchi** → On-Hold - 1 of 12 episodes
-- **Houseki no Kuni** → Completed - 12 of 12 episodes
-- **Seitokai Yakuindomo*** → Completed - 13 of 13 episodes
-- **High Score Girl II** → Completed - 9 of 9 episodes
-- **High Score Girl: Extra Stage** → Completed - 3 of 3 episodes
-- **High Score Girl** → Completed - 12 of 12 episodes
-- **Mob Psycho 100 III** → Completed - 12 of 12 episodes
-- **Mob Psycho 100 II** → Completed - 13 of 13 episodes
-- **Mob Psycho 100** → Completed - 12 of 12 episodes
+
+<table>
+<tr>
+<td width="70%">
+
+### [Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)
+
+✨ Watching - 7 of 13 episodes
+
+</td>
+
+<td align="right">
+<img src="https://cdn.myanimelist.net/images/anime/62568.jpg" width="120"/>
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="70%">
+
+### [Acchi Kocchi](https://myanimelist.net/anime/12291/Acchi_Kocchi)
+
+✨ On-Hold - 1 of 12 episodes
+
+</td>
+
+<td align="right">
+<img src="https://cdn.myanimelist.net/images/anime/12291.jpg" width="120"/>
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="70%">
+
+### [Houseki no Kuni](https://myanimelist.net/anime/35557/Houseki_no_Kuni)
+
+✨ Completed - 12 of 12 episodes
+
+</td>
+
+<td align="right">
+<img src="https://cdn.myanimelist.net/images/anime/35557.jpg" width="120"/>
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="70%">
+
+### [Seitokai Yakuindomo*](https://myanimelist.net/anime/20847/Seitokai_Yakuindomo)
+
+✨ Completed - 13 of 13 episodes
+
+</td>
+
+<td align="right">
+<img src="https://cdn.myanimelist.net/images/anime/20847.jpg" width="120"/>
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="70%">
+
+### [High Score Girl II](https://myanimelist.net/anime/39570/High_Score_Girl_II)
+
+✨ Completed - 9 of 9 episodes
+
+</td>
+
+<td align="right">
+<img src="https://cdn.myanimelist.net/images/anime/39570.jpg" width="120"/>
+</td>
+</tr>
+</table>
+
+
 <!-- MAL-END -->
  </p>
 
