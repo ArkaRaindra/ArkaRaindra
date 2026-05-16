@@ -24,15 +24,47 @@ for item in items:
 
     anime_id = link.split("/")[4]
 
-    # Thumbnail Jikan CDN
     image_url = f"https://cdn.myanimelist.net/images/anime/{anime_id}.jpg"
 
-    block = f"""
+    card = f"""
 <table>
 <tr>
-<td width="75%">
+<td width="70%">
 
 ### [{title}]({link})
 
-```diff
-{desc}
+✨ {desc}
+
+</td>
+
+<td align="right">
+<img src="{image_url}" width="120"/>
+</td>
+</tr>
+</table>
+
+"""
+
+    anime_html.append(card)
+
+    if len(anime_html) >= 5:
+        break
+
+with open("README.md", "r", encoding="utf-8") as f:
+    readme = f.read()
+
+start = "<!-- MAL-START -->"
+end = "<!-- MAL-END -->"
+
+new_content = start + "\n" + "\n".join(anime_html) + "\n" + end
+
+updated = re.sub(
+    f"{start}[\\s\\S]*?{end}",
+    new_content,
+    readme
+)
+
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(updated)
+
+print("README updated!")
