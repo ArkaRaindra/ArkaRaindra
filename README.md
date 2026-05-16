@@ -75,6 +75,26 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
+## [Great Teacher Onizuka](https://myanimelist.net/anime/245/Great_Teacher_Onizuka)
+
+Watching - 9 of 43 episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://myanimelist.net/images/anime/13/11460.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
 ## [Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)
 
 Watching - 7 of 13 episodes
@@ -144,26 +164,6 @@ Completed - 13 of 13 episodes
 <td align="right">
 
 <img src="https://myanimelist.net/images/anime/9/56941.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [High Score Girl II](https://myanimelist.net/anime/39570/High_Score_Girl_II)
-
-Completed - 9 of 9 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://myanimelist.net/images/anime/1560/99904.jpg" width="120"/>
 
 </td>
 </tr>
