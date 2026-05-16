@@ -33,7 +33,7 @@ for item in items:
 
 ### [{title}]({link})
 
-✨ {desc}
+{desc}
 
 </td>
 
