@@ -75,7 +75,7 @@ Beyond coding, I'm passionate about:
 
 ### [Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)
 
-✨ Watching - 7 of 13 episodes
+Watching - 7 of 13 episodes
 
 </td>
 
@@ -93,7 +93,7 @@ Beyond coding, I'm passionate about:
 
 ### [Acchi Kocchi](https://myanimelist.net/anime/12291/Acchi_Kocchi)
 
-✨ On-Hold - 1 of 12 episodes
+On-Hold - 1 of 12 episodes
 
 </td>
 
@@ -111,7 +111,7 @@ Beyond coding, I'm passionate about:
 
 ### [Houseki no Kuni](https://myanimelist.net/anime/35557/Houseki_no_Kuni)
 
-✨ Completed - 12 of 12 episodes
+Completed - 12 of 12 episodes
 
 </td>
 
@@ -129,7 +129,7 @@ Beyond coding, I'm passionate about:
 
 ### [Seitokai Yakuindomo*](https://myanimelist.net/anime/20847/Seitokai_Yakuindomo)
 
-✨ Completed - 13 of 13 episodes
+Completed - 13 of 13 episodes
 
 </td>
 
@@ -147,7 +147,7 @@ Beyond coding, I'm passionate about:
 
 ### [High Score Girl II](https://myanimelist.net/anime/39570/High_Score_Girl_II)
 
-✨ Completed - 9 of 9 episodes
+Completed - 9 of 9 episodes
 
 </td>
 
