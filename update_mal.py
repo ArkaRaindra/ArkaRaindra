@@ -1,16 +1,36 @@
 import requests
 import xml.etree.ElementTree as ET
 import re
+from bs4 import BeautifulSoup
 
 RSS_URL = "https://myanimelist.net/rss.php?type=rwe&u=ArkaNotHere"
 
-response = requests.get(RSS_URL)
+headers = {
+    "User-Agent": "Mozilla/5.0"
+}
+
+response = requests.get(RSS_URL, headers=headers)
 root = ET.fromstring(response.content)
 
 items = root.findall("./channel/item")
 
 anime_html = []
 added = set()
+
+def get_cover(url):
+    try:
+        page = requests.get(url, headers=headers)
+        soup = BeautifulSoup(page.text, "html.parser")
+
+        img = soup.find("img", {"itemprop": "image"})
+
+        if img:
+            return img["data-src"] if img.get("data-src") else img["src"]
+
+    except:
+        pass
+
+    return "https://via.placeholder.com/120x170?text=No+Image"
 
 for item in items:
     title = item.find("title").text
@@ -22,23 +42,23 @@ for item in items:
 
     added.add(title)
 
-    anime_id = link.split("/")[4]
-
-    image_url = f"https://cdn.myanimelist.net/images/anime/{anime_id}.jpg"
+    cover = get_cover(link)
 
     card = f"""
 <table>
 <tr>
-<td width="70%">
+<td width="75%">
 
-### [{title}]({link})
+## [{title}]({link})
 
 {desc}
 
 </td>
 
 <td align="right">
-<img src="{image_url}" width="120"/>
+
+<img src="{cover}" width="120"/>
+
 </td>
 </tr>
 </table>
