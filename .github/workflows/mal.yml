@@ -10,20 +10,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Fetch RSS and Update README
-        run: |
-          python update_mal.py
+      - name: Install dependencies
+        run: pip install beautifulsoup4 requests
 
-      - name: Commit Changes
+      - name: Update README
+        run: python update_mal.py
+
+      - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
           git add README.md
 
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update MAL list"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update MAL"
 
           git push
