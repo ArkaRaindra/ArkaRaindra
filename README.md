@@ -71,16 +71,18 @@ Beyond coding, I'm passionate about:
 
 <table>
 <tr>
-<td width="70%">
+<td width="75%">
 
-### [Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)
+## [Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)
 
 Watching - 7 of 13 episodes
 
 </td>
 
 <td align="right">
-<img src="https://cdn.myanimelist.net/images/anime/62568.jpg" width="120"/>
+
+<img src="https://myanimelist.net/images/anime/1773/155779.jpg" width="120"/>
+
 </td>
 </tr>
 </table>
@@ -89,16 +91,18 @@ Watching - 7 of 13 episodes
 
 <table>
 <tr>
-<td width="70%">
+<td width="75%">
 
-### [Acchi Kocchi](https://myanimelist.net/anime/12291/Acchi_Kocchi)
+## [Acchi Kocchi](https://myanimelist.net/anime/12291/Acchi_Kocchi)
 
 On-Hold - 1 of 12 episodes
 
 </td>
 
 <td align="right">
-<img src="https://cdn.myanimelist.net/images/anime/12291.jpg" width="120"/>
+
+<img src="https://myanimelist.net/images/anime/5/46489.jpg" width="120"/>
+
 </td>
 </tr>
 </table>
@@ -107,16 +111,18 @@ On-Hold - 1 of 12 episodes
 
 <table>
 <tr>
-<td width="70%">
+<td width="75%">
 
-### [Houseki no Kuni](https://myanimelist.net/anime/35557/Houseki_no_Kuni)
+## [Houseki no Kuni](https://myanimelist.net/anime/35557/Houseki_no_Kuni)
 
 Completed - 12 of 12 episodes
 
 </td>
 
 <td align="right">
-<img src="https://cdn.myanimelist.net/images/anime/35557.jpg" width="120"/>
+
+<img src="https://myanimelist.net/images/anime/3/88293.jpg" width="120"/>
+
 </td>
 </tr>
 </table>
@@ -125,16 +131,18 @@ Completed - 12 of 12 episodes
 
 <table>
 <tr>
-<td width="70%">
+<td width="75%">
 
-### [Seitokai Yakuindomo*](https://myanimelist.net/anime/20847/Seitokai_Yakuindomo)
+## [Seitokai Yakuindomo*](https://myanimelist.net/anime/20847/Seitokai_Yakuindomo)
 
 Completed - 13 of 13 episodes
 
 </td>
 
 <td align="right">
-<img src="https://cdn.myanimelist.net/images/anime/20847.jpg" width="120"/>
+
+<img src="https://myanimelist.net/images/anime/9/56941.jpg" width="120"/>
+
 </td>
 </tr>
 </table>
@@ -143,16 +151,18 @@ Completed - 13 of 13 episodes
 
 <table>
 <tr>
-<td width="70%">
+<td width="75%">
 
-### [High Score Girl II](https://myanimelist.net/anime/39570/High_Score_Girl_II)
+## [High Score Girl II](https://myanimelist.net/anime/39570/High_Score_Girl_II)
 
 Completed - 9 of 9 episodes
 
 </td>
 
 <td align="right">
-<img src="https://cdn.myanimelist.net/images/anime/39570.jpg" width="120"/>
+
+<img src="https://myanimelist.net/images/anime/1560/99904.jpg" width="120"/>
+
 </td>
 </tr>
 </table>
