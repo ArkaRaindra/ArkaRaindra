@@ -1,5 +1,6 @@
 import requests
 import xml.etree.ElementTree as ET
+import re
 
 RSS_URL = "https://myanimelist.net/rss.php?type=rwe&u=ArkaNotHere"
 
@@ -8,38 +9,30 @@ root = ET.fromstring(response.content)
 
 items = root.findall("./channel/item")
 
-anime_list = []
-
+anime_html = []
 added = set()
 
 for item in items:
     title = item.find("title").text
+    link = item.find("link").text
     desc = item.find("description").text.strip()
 
-    if title not in added:
-        anime_list.append(f"- **{title}** → {desc}")
-        added.add(title)
+    if title in added:
+        continue
 
-    if len(anime_list) >= 10:
-        break
+    added.add(title)
 
-with open("README.md", "r", encoding="utf-8") as f:
-    readme = f.read()
+    anime_id = link.split("/")[4]
 
-start = "<!-- MAL-START -->"
-end = "<!-- MAL-END -->"
+    # Thumbnail Jikan CDN
+    image_url = f"https://cdn.myanimelist.net/images/anime/{anime_id}.jpg"
 
-new_content = start + "\n" + "\n".join(anime_list) + "\n" + end
+    block = f"""
+<table>
+<tr>
+<td width="75%">
 
-import re
+### [{title}]({link})
 
-updated = re.sub(
-    f"{start}[\\s\\S]*?{end}",
-    new_content,
-    readme
-)
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(updated)
-
-print("README updated!")
+```diff
+{desc}
