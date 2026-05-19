@@ -83,7 +83,7 @@ Watching - 22 of 43 episodes
 
 <td align="right">
 
-<img src="https://myanimelist.net/images/anime/13/11460.jpg" width="120"/>
+<img src="https://cdn.myanimelist.net/images/anime/13/11460.jpg" width="120"/>
 
 </td>
 </tr>
@@ -103,7 +103,7 @@ Watching - 7 of 13 episodes
 
 <td align="right">
 
-<img src="https://myanimelist.net/images/anime/1773/155779.jpg" width="120"/>
+<img src="https://cdn.myanimelist.net/images/anime/1773/155779.jpg" width="120"/>
 
 </td>
 </tr>
@@ -123,7 +123,7 @@ On-Hold - 1 of 12 episodes
 
 <td align="right">
 
-<img src="https://myanimelist.net/images/anime/5/46489.jpg" width="120"/>
+<img src="https://cdn.myanimelist.net/images/anime/5/46489.jpg" width="120"/>
 
 </td>
 </tr>
@@ -143,7 +143,7 @@ Completed - 12 of 12 episodes
 
 <td align="right">
 
-<img src="https://myanimelist.net/images/anime/3/88293.jpg" width="120"/>
+<img src="https://cdn.myanimelist.net/images/anime/3/88293.jpg" width="120"/>
 
 </td>
 </tr>
@@ -163,7 +163,7 @@ Completed - 13 of 13 episodes
 
 <td align="right">
 
-<img src="https://myanimelist.net/images/anime/9/56941.jpg" width="120"/>
+<img src="https://cdn.myanimelist.net/images/anime/9/56941.jpg" width="120"/>
 
 </td>
 </tr>
