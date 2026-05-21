@@ -77,7 +77,7 @@ Beyond coding, I'm passionate about:
 
 ## [Great Teacher Onizuka](https://myanimelist.net/anime/245/Great_Teacher_Onizuka)
 
-Watching - 22 of 43 episodes
+Watching - 26 of 43 episodes
 
 </td>
 
@@ -97,7 +97,7 @@ Watching - 22 of 43 episodes
 
 ## [Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)
 
-Watching - 7 of 13 episodes
+Watching - 8 of 13 episodes
 
 </td>
 
