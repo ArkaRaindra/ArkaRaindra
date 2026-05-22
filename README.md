@@ -77,7 +77,7 @@ Beyond coding, I'm passionate about:
 
 ## [Great Teacher Onizuka](https://myanimelist.net/anime/245/Great_Teacher_Onizuka)
 
-Watching - 26 of 43 episodes
+Watching - 32 of 43 episodes
 
 </td>
 
