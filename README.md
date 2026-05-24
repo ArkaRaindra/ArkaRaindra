@@ -75,6 +75,26 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
+## [Akame ga Kill!](https://myanimelist.net/anime/22199/Akame_ga_Kill)
+
+Watching - 4 of 24 episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1429/95946.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
 ## [Great Teacher Onizuka](https://myanimelist.net/anime/245/Great_Teacher_Onizuka)
 
 Completed - 43 of 43 episodes
@@ -144,26 +164,6 @@ Completed - 12 of 12 episodes
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/3/88293.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Seitokai Yakuindomo*](https://myanimelist.net/anime/20847/Seitokai_Yakuindomo)
-
-Completed - 13 of 13 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/9/56941.jpg" width="120"/>
 
 </td>
 </tr>
