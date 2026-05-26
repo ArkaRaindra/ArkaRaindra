@@ -77,7 +77,7 @@ Beyond coding, I'm passionate about:
 
 ## [Akame ga Kill!](https://myanimelist.net/anime/22199/Akame_ga_Kill)
 
-Watching - 12 of 24 episodes
+Watching - 16 of 24 episodes
 
 </td>
 
