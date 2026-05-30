@@ -75,6 +75,26 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
+## [Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)
+
+Watching - 9 of 13 episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1773/155779.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
 ## [Akame ga Kill!](https://myanimelist.net/anime/22199/Akame_ga_Kill)
 
 Completed - 24 of 24 episodes
@@ -104,26 +124,6 @@ Completed - 43 of 43 episodes
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/13/11460.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)
-
-Watching - 8 of 13 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/1773/155779.jpg" width="120"/>
 
 </td>
 </tr>
