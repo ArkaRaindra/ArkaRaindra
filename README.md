@@ -77,7 +77,7 @@ Beyond coding, I'm passionate about:
 
 ## [Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)
 
-Watching - 12 of 13 episodes
+Completed - 13 of 13 episodes
 
 </td>
 
