@@ -75,6 +75,26 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
+## [Tenmaku no Jaadugar](https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar)
+
+Watching - 2 of ? episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1098/158891.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
 ## [Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)
 
 Completed - 13 of 13 episodes
@@ -144,26 +164,6 @@ On-Hold - 1 of 12 episodes
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/5/46489.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Houseki no Kuni](https://myanimelist.net/anime/35557/Houseki_no_Kuni)
-
-Completed - 12 of 12 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/3/88293.jpg" width="120"/>
 
 </td>
 </tr>
