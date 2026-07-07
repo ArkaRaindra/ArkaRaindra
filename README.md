@@ -75,6 +75,26 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
+## [Grand Blue Season 3](https://myanimelist.net/anime/62542/Grand_Blue_Season_3)
+
+Watching - 1 of 12 episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1615/158194.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
 ## [Tenmaku no Jaadugar](https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar)
 
 Watching - 2 of ? episodes
@@ -144,26 +164,6 @@ Completed - 43 of 43 episodes
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/13/11460.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Acchi Kocchi](https://myanimelist.net/anime/12291/Acchi_Kocchi)
-
-On-Hold - 1 of 12 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/5/46489.jpg" width="120"/>
 
 </td>
 </tr>
