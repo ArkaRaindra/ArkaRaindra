@@ -75,15 +75,15 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
-## [Tenmaku no Jaadugar](https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar)
+## [Grand Blue Season 3](https://myanimelist.net/anime/62542/Grand_Blue_Season_3)
 
-Watching - 3 of ? episodes
+Watching - 2 of 12 episodes
 
 </td>
 
 <td align="right">
 
-<img src="https://cdn.myanimelist.net/images/anime/1098/158891.jpg" width="120"/>
+<img src="https://cdn.myanimelist.net/images/anime/1615/158194.jpg" width="120"/>
 
 </td>
 </tr>
@@ -95,15 +95,35 @@ Watching - 3 of ? episodes
 <tr>
 <td width="75%">
 
-## [Grand Blue Season 3](https://myanimelist.net/anime/62542/Grand_Blue_Season_3)
+## [Yani Neko](https://myanimelist.net/anime/63403/Yani_Neko)
 
-Watching - 1 of 12 episodes
+Watching - 3 of ? episodes
 
 </td>
 
 <td align="right">
 
-<img src="https://cdn.myanimelist.net/images/anime/1615/158194.jpg" width="120"/>
+<img src="https://cdn.myanimelist.net/images/anime/1281/156496.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
+## [Tenmaku no Jaadugar](https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar)
+
+Watching - 3 of ? episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1098/158891.jpg" width="120"/>
 
 </td>
 </tr>
@@ -144,26 +164,6 @@ Completed - 24 of 24 episodes
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/1429/95946.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Great Teacher Onizuka](https://myanimelist.net/anime/245/Great_Teacher_Onizuka)
-
-Completed - 43 of 43 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/13/11460.jpg" width="120"/>
 
 </td>
 </tr>
