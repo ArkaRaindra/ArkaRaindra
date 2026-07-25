@@ -75,7 +75,7 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
-## [Tenmaku no Jaadugar](https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar)
+## [Yani Neko](https://myanimelist.net/anime/63403/Yani_Neko)
 
 Watching - 4 of ? episodes
 
@@ -83,7 +83,7 @@ Watching - 4 of ? episodes
 
 <td align="right">
 
-<img src="https://cdn.myanimelist.net/images/anime/1098/158891.jpg" width="120"/>
+<img src="https://cdn.myanimelist.net/images/anime/1281/156496.jpg" width="120"/>
 
 </td>
 </tr>
@@ -97,7 +97,7 @@ Watching - 4 of ? episodes
 
 ## [Grand Blue Season 3](https://myanimelist.net/anime/62542/Grand_Blue_Season_3)
 
-Watching - 2 of 12 episodes
+Watching - 3 of 12 episodes
 
 </td>
 
@@ -115,15 +115,15 @@ Watching - 2 of 12 episodes
 <tr>
 <td width="75%">
 
-## [Yani Neko](https://myanimelist.net/anime/63403/Yani_Neko)
+## [Tenmaku no Jaadugar](https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar)
 
-Watching - 3 of ? episodes
+Watching - 4 of ? episodes
 
 </td>
 
 <td align="right">
 
-<img src="https://cdn.myanimelist.net/images/anime/1281/156496.jpg" width="120"/>
+<img src="https://cdn.myanimelist.net/images/anime/1098/158891.jpg" width="120"/>
 
 </td>
 </tr>
