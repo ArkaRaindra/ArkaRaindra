@@ -75,6 +75,26 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
+## [Grand Blue Season 3](https://myanimelist.net/anime/62542/Grand_Blue_Season_3)
+
+Watching - 4 of 12 episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1615/158194.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
 ## [Tenmaku no Jaadugar](https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar)
 
 Watching - 5 of ? episodes
@@ -104,26 +124,6 @@ Watching - 4 of ? episodes
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/1281/156496.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Grand Blue Season 3](https://myanimelist.net/anime/62542/Grand_Blue_Season_3)
-
-Watching - 3 of 12 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/1615/158194.jpg" width="120"/>
 
 </td>
 </tr>
