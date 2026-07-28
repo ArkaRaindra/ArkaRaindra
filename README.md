@@ -66,7 +66,7 @@ Beyond coding, I'm passionate about:
 
 ## MyAnimeList activity
 [![MAL](https://img.shields.io/badge/MyAnimeList-Profile-2E51A2?logo=myanimelist)](https://myanimelist.net/profile/ArkaNotHere)
-<img src="https://cdn.myanimelist.net/s/common/userimages/1758b197-d161-4ac8-a71a-aa23eed83606_225w?s=b3f63f11775305fd58661ab1dac076cf" width="20">
+<img src="https://cdn.myanimelist.net/s/common/userimages/0e6cceb8-a2cf-466b-ac8f-5417eeec9d22_225w?s=2fa20bc05a9b39c8b46fb92911afe5eb" width="20">
 <p>
 
 <!-- MAL-START -->
