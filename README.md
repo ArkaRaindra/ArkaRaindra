@@ -77,7 +77,7 @@ Beyond coding, I'm passionate about:
 
 ## [Grand Blue Season 3](https://myanimelist.net/anime/62542/Grand_Blue_Season_3)
 
-Watching - 4 of 12 episodes
+Watching - 5 of 12 episodes
 
 </td>
 
@@ -97,7 +97,7 @@ Watching - 4 of 12 episodes
 
 ## [Tenmaku no Jaadugar](https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar)
 
-Watching - 5 of ? episodes
+Watching - 6 of ? episodes
 
 </td>
 
