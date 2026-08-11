@@ -97,7 +97,7 @@ Watching - 6 of ? episodes
 
 ## [Tenmaku no Jaadugar](https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar)
 
-Watching - 7 of ? episodes
+Watching - 7 of 12 episodes
 
 </td>
 
