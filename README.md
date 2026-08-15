@@ -75,15 +75,15 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
-## [Yani Neko](https://myanimelist.net/anime/63403/Yani_Neko)
+## [Tenmaku no Jaadugar](https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar)
 
-Watching - 6 of ? episodes
+Watching - 8 of 12 episodes
 
 </td>
 
 <td align="right">
 
-<img src="https://cdn.myanimelist.net/images/anime/1281/156496.jpg" width="120"/>
+<img src="https://cdn.myanimelist.net/images/anime/1098/158891.jpg" width="120"/>
 
 </td>
 </tr>
@@ -95,15 +95,15 @@ Watching - 6 of ? episodes
 <tr>
 <td width="75%">
 
-## [Tenmaku no Jaadugar](https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar)
+## [Yani Neko](https://myanimelist.net/anime/63403/Yani_Neko)
 
-Watching - 7 of 12 episodes
+Watching - 6 of ? episodes
 
 </td>
 
 <td align="right">
 
-<img src="https://cdn.myanimelist.net/images/anime/1098/158891.jpg" width="120"/>
+<img src="https://cdn.myanimelist.net/images/anime/1281/156496.jpg" width="120"/>
 
 </td>
 </tr>
