@@ -75,6 +75,26 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
+## [Kore Kaite Shine](https://myanimelist.net/anime/61280/Kore_Kaite_Shine)
+
+Watching - 2 of 12 episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1649/154997.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
 ## [Tenmaku no Jaadugar](https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar)
 
 Watching - 8 of 12 episodes
@@ -144,26 +164,6 @@ Completed - 13 of 13 episodes
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/1773/155779.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Akame ga Kill!](https://myanimelist.net/anime/22199/Akame_ga_Kill)
-
-Completed - 24 of 24 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/1429/95946.jpg" width="120"/>
 
 </td>
 </tr>
