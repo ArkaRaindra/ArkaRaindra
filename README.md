@@ -75,9 +75,29 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
+## [Tenmaku no Jaadugar](https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar)
+
+Watching - 9 of 12 episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1098/158891.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
 ## [Kore Kaite Shine](https://myanimelist.net/anime/61280/Kore_Kaite_Shine)
 
-Watching - 3 of 12 episodes
+Watching - 6 of 12 episodes
 
 </td>
 
@@ -104,26 +124,6 @@ Watching - 7 of ? episodes
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/1281/156496.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Tenmaku no Jaadugar](https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar)
-
-Watching - 8 of 12 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/1098/158891.jpg" width="120"/>
 
 </td>
 </tr>
