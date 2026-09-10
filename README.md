@@ -97,7 +97,7 @@ Watching - 8 of 12 episodes
 
 ## [Yani Neko](https://myanimelist.net/anime/63403/Yani_Neko)
 
-Watching - 9 of ? episodes
+Watching - 9 of 12 episodes
 
 </td>
 
