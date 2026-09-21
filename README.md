@@ -77,7 +77,7 @@ Beyond coding, I'm passionate about:
 
 ## [Yani Neko](https://myanimelist.net/anime/63403/Yani_Neko)
 
-Watching - 10 of 12 episodes
+Watching - 11 of 12 episodes
 
 </td>
 
