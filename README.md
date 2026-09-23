@@ -75,15 +75,15 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
-## [Yani Neko](https://myanimelist.net/anime/63403/Yani_Neko)
+## [Grand Blue Season 3](https://myanimelist.net/anime/62542/Grand_Blue_Season_3)
 
-Watching - 11 of 12 episodes
+Completed - 12 of 12 episodes
 
 </td>
 
 <td align="right">
 
-<img src="https://cdn.myanimelist.net/images/anime/1281/156496.jpg" width="120"/>
+<img src="https://cdn.myanimelist.net/images/anime/1615/158194.jpg" width="120"/>
 
 </td>
 </tr>
@@ -95,15 +95,15 @@ Watching - 11 of 12 episodes
 <tr>
 <td width="75%">
 
-## [Grand Blue Season 3](https://myanimelist.net/anime/62542/Grand_Blue_Season_3)
+## [Yani Neko](https://myanimelist.net/anime/63403/Yani_Neko)
 
-Watching - 10 of 12 episodes
+Watching - 11 of 12 episodes
 
 </td>
 
 <td align="right">
 
-<img src="https://cdn.myanimelist.net/images/anime/1615/158194.jpg" width="120"/>
+<img src="https://cdn.myanimelist.net/images/anime/1281/156496.jpg" width="120"/>
 
 </td>
 </tr>
