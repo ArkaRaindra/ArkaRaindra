@@ -75,6 +75,26 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
+## [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken)
+
+Watching - 2 of ? episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1065/158884.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
 ## [Grand Blue Season 3](https://myanimelist.net/anime/62542/Grand_Blue_Season_3)
 
 Completed - 12 of 12 episodes
@@ -144,26 +164,6 @@ Watching - 6 of 12 episodes
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/1649/154997.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Dr. Stone: Science Future Part 3](https://myanimelist.net/anime/62568/Dr_Stone__Science_Future_Part_3)
-
-Completed - 13 of 13 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/1773/155779.jpg" width="120"/>
 
 </td>
 </tr>
