@@ -75,6 +75,26 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
+## [Yani Neko](https://myanimelist.net/anime/63403/Yani_Neko)
+
+Completed - 12 of 12 episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1281/156496.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
 ## [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken)
 
 Watching - 2 of ? episodes
@@ -104,26 +124,6 @@ Completed - 12 of 12 episodes
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/1615/158194.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Yani Neko](https://myanimelist.net/anime/63403/Yani_Neko)
-
-Watching - 11 of 12 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/1281/156496.jpg" width="120"/>
 
 </td>
 </tr>
