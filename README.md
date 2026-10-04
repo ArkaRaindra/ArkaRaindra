@@ -75,6 +75,46 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
+## [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/Ranma_½_2024_3rd_Season)
+
+Watching - 1 of ? episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1939/159199.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
+## [Seitokai ni mo Ana wa Aru!](https://myanimelist.net/anime/61578/Seitokai_ni_mo_Ana_wa_Aru)
+
+Watching - 1 of 12 episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1877/160134.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
 ## [Yani Neko](https://myanimelist.net/anime/63403/Yani_Neko)
 
 Completed - 12 of 12 episodes
@@ -124,46 +164,6 @@ Completed - 12 of 12 episodes
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/1615/158194.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Tenmaku no Jaadugar](https://myanimelist.net/anime/61483/Tenmaku_no_Jaadugar)
-
-Completed - 12 of 12 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/1098/158891.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Kore Kaite Shine](https://myanimelist.net/anime/61280/Kore_Kaite_Shine)
-
-Watching - 6 of 12 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/1649/154997.jpg" width="120"/>
 
 </td>
 </tr>
