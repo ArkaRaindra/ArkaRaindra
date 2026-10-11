@@ -75,9 +75,29 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
+## [Kore Kaite Shine](https://myanimelist.net/anime/61280/Kore_Kaite_Shine)
+
+Watching - 8 of 12 episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1649/154997.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
 ## [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/Ranma_½_2024_3rd_Season)
 
-Watching - 1 of ? episodes
+Watching - 2 of ? episodes
 
 </td>
 
@@ -97,13 +117,33 @@ Watching - 1 of ? episodes
 
 ## [Seitokai ni mo Ana wa Aru!](https://myanimelist.net/anime/61578/Seitokai_ni_mo_Ana_wa_Aru)
 
-Watching - 1 of 12 episodes
+Watching - 2 of 12 episodes
 
 </td>
 
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/1877/160134.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
+## [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken)
+
+Watching - 4 of ? episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1065/158884.jpg" width="120"/>
 
 </td>
 </tr>
@@ -124,46 +164,6 @@ Completed - 12 of 12 episodes
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/1281/156496.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken)
-
-Watching - 2 of ? episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/1065/158884.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Grand Blue Season 3](https://myanimelist.net/anime/62542/Grand_Blue_Season_3)
-
-Completed - 12 of 12 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/1615/158194.jpg" width="120"/>
 
 </td>
 </tr>
