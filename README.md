@@ -75,6 +75,26 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
+## [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken)
+
+Watching - 6 of ? episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1065/158884.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
 ## [Seitokai ni mo Ana wa Aru!](https://myanimelist.net/anime/61578/Seitokai_ni_mo_Ana_wa_Aru)
 
 Watching - 3 of 12 episodes
@@ -104,26 +124,6 @@ Watching - 3 of ? episodes
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/1939/159199.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken)
-
-Watching - 5 of ? episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/1065/158884.jpg" width="120"/>
 
 </td>
 </tr>
