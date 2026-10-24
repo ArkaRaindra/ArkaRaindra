@@ -75,6 +75,26 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
+## [Himegoto](https://myanimelist.net/anime/22835/Himegoto)
+
+Completed - 13 of 13 episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/8/75226.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
 ## [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken)
 
 Watching - 6 of ? episodes
@@ -144,26 +164,6 @@ Watching - 8 of 12 episodes
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/1649/154997.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Yani Neko](https://myanimelist.net/anime/63403/Yani_Neko)
-
-Completed - 12 of 12 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/1281/156496.jpg" width="120"/>
 
 </td>
 </tr>
