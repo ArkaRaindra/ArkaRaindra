@@ -75,6 +75,66 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
+## [Seitokai ni mo Ana wa Aru!](https://myanimelist.net/anime/61578/Seitokai_ni_mo_Ana_wa_Aru)
+
+Watching - 7 of 12 episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1877/160134.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
+## [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/Ranma_½_2024_3rd_Season)
+
+Watching - 7 of ? episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1939/159199.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
+## [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken)
+
+Watching - 9 of ? episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/1065/158884.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
 ## [Nisekoi: OVA](https://myanimelist.net/anime/32553/Nisekoi__OVA)
 
 Completed - 2 of 2 episodes
@@ -104,66 +164,6 @@ Completed - 3 of 3 episodes
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/2/71754.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen](https://myanimelist.net/anime/26055/JoJo_no_Kimyou_na_Bouken_Part_3__Stardust_Crusaders_-_Egypt-hen)
-
-Completed - 24 of 24 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/11/75045.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/Ranma_½_2024_3rd_Season)
-
-Watching - 6 of ? episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/1939/159199.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Steel Ball Run: JoJo no Kimyou na Bouken](https://myanimelist.net/anime/61469/Steel_Ball_Run__JoJo_no_Kimyou_na_Bouken)
-
-Watching - 8 of ? episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/1065/158884.jpg" width="120"/>
 
 </td>
 </tr>
