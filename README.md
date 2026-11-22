@@ -75,15 +75,15 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
-## [Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?](https://myanimelist.net/anime/63431/Tsuihou_sareta_Cheat_Fuyo_Majutsushi_wa_Kimama_na_Second_Life_wo_Ouka_suru_Ore_wa_Buki_dake_ja_Naku_Arayuru_Mono_ni_Kyouka_Point_wo_Fuyo_Dekiru_shi_Ore_no_Ishi_de_Itsudemo_Kouka_wo_Kaijo_Dekiru_kedo_Nokotta_Hitotachi_Daijoubu)
+## [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/Ranma_½_2024_3rd_Season)
 
-Watching - 6 of 12 episodes
+Watching - 8 of ? episodes
 
 </td>
 
 <td align="right">
 
-<img src="https://cdn.myanimelist.net/images/anime/1963/160339.jpg" width="120"/>
+<img src="https://cdn.myanimelist.net/images/anime/1939/159199.jpg" width="120"/>
 
 </td>
 </tr>
@@ -97,7 +97,7 @@ Watching - 6 of 12 episodes
 
 ## [Seitokai ni mo Ana wa Aru!](https://myanimelist.net/anime/61578/Seitokai_ni_mo_Ana_wa_Aru)
 
-Watching - 7 of 12 episodes
+Watching - 8 of 12 episodes
 
 </td>
 
@@ -115,15 +115,15 @@ Watching - 7 of 12 episodes
 <tr>
 <td width="75%">
 
-## [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/Ranma_½_2024_3rd_Season)
+## [Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?](https://myanimelist.net/anime/63431/Tsuihou_sareta_Cheat_Fuyo_Majutsushi_wa_Kimama_na_Second_Life_wo_Ouka_suru_Ore_wa_Buki_dake_ja_Naku_Arayuru_Mono_ni_Kyouka_Point_wo_Fuyo_Dekiru_shi_Ore_no_Ishi_de_Itsudemo_Kouka_wo_Kaijo_Dekiru_kedo_Nokotta_Hitotachi_Daijoubu)
 
-Watching - 7 of ? episodes
+Watching - 6 of 12 episodes
 
 </td>
 
 <td align="right">
 
-<img src="https://cdn.myanimelist.net/images/anime/1939/159199.jpg" width="120"/>
+<img src="https://cdn.myanimelist.net/images/anime/1963/160339.jpg" width="120"/>
 
 </td>
 </tr>
