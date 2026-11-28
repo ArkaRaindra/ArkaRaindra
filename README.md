@@ -75,6 +75,26 @@ Beyond coding, I'm passionate about:
 <tr>
 <td width="75%">
 
+## [K-On! Movie](https://myanimelist.net/anime/9617/K-On_Movie)
+
+Completed - 1 of 1 episodes
+
+</td>
+
+<td align="right">
+
+<img src="https://cdn.myanimelist.net/images/anime/5/76233.jpg" width="120"/>
+
+</td>
+</tr>
+</table>
+
+
+
+<table>
+<tr>
+<td width="75%">
+
 ## [Ranma ½ (2024) 3rd Season](https://myanimelist.net/anime/63801/Ranma_½_2024_3rd_Season)
 
 Watching - 8 of ? episodes
@@ -144,26 +164,6 @@ Watching - 9 of ? episodes
 <td align="right">
 
 <img src="https://cdn.myanimelist.net/images/anime/1065/158884.jpg" width="120"/>
-
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="75%">
-
-## [Nisekoi: OVA](https://myanimelist.net/anime/32553/Nisekoi__OVA)
-
-Completed - 2 of 2 episodes
-
-</td>
-
-<td align="right">
-
-<img src="https://cdn.myanimelist.net/images/anime/1992/112119.jpg" width="120"/>
 
 </td>
 </tr>
